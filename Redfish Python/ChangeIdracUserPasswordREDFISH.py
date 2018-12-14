@@ -28,18 +28,19 @@ try:
     idrac_password = sys.argv[3]
     idrac_account_id = sys.argv[4]
     idrac_new_password = sys.argv[5]
-   
+    idrac_changed_id = sys.argv[6]
+
 except:
-    print("- FAIL: You must pass in script name along with iDRAC IP / iDRAC username / iDRAC password / idrac_account_id / idrac_new_password. Example: \"script_name.py 192.168.0.120 root calvin 2 test\"")
+    print("- FAIL: You must pass in script name along with iDRAC IP / iDRAC username / iDRAC password / idrac_account_id / idrac_new_password / idrac_changed_id. Example: \"script_name.py 192.168.0.120 root calvin 2 test walmart\"")
     sys.exit()
 
 
 ### Function to change iDRAC user password and verify password was changed by executing GET command with new password
 
 def set_idrac_user_password():
-    
+
     url = 'https://%s/redfish/v1/Managers/iDRAC.Embedded.1/Accounts/%s' % (idrac_ip, idrac_account_id)
-    
+
     payload = {'Password': idrac_new_password}
     headers = {'content-type': 'application/json'}
     response = requests.patch(url, data=json.dumps(payload), headers=headers,verify=False, auth=(idrac_username, idrac_password))
@@ -51,17 +52,16 @@ def set_idrac_user_password():
         print("\n- FAIL, status code %s returned, password was not changed") % statusCode
         sys.exit()
     time.sleep(5)
-    response = requests.get('https://%s/redfish/v1/Managers/iDRAC.Embedded.1/Accounts/%s' % (idrac_ip, idrac_account_id),verify=False,auth=(idrac_username, idrac_new_password))
-    
+    response = requests.get('https://%s/redfish/v1/Managers/iDRAC.Embedded.1/Accounts/%s' % (idrac_ip, idrac_account_id),verify=False,auth=(idrac_changed_id, idrac_new_password))
+
     statusCode = response.status_code
     if statusCode == 200:
         print("\n- PASS, status code %s returned for GET command, iDRAC user password change success") % statusCode
     else:
         print("\n- FAIL, status code %s returned for GET command") % statusCode
         sys.exit()
-    
+
 ### Run code
 
 if __name__ == "__main__":
     set_idrac_user_password()
-
