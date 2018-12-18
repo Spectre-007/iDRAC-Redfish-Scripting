@@ -1,0 +1,75 @@
+<SystemConfiguration Model="PowerEdge R740xd" ServiceTag="DLWKHQ2" TimeStamp="Tue Dec 18 13:55:37 2018">
+<!--Export type is Clone,XML,Selective-->
+<!--Exported configuration may contain commented attributes. Attributes may be commented due to dependency, destructive nature, preserving server identity or for security reasons.-->
+<Component FQDD="iDRAC.Embedded.1">
+ <Attribute Name="IPMILan.1#CommunityName">openmanage</Attribute>
+ <Attribute Name="SNMP.1#AgentEnable">Enabled</Attribute>
+ <Attribute Name="SNMP.1#AgentCommunity">openmanage</Attribute>
+ <Attribute Name="SNMP.1#TrapFormat">SNMPv2</Attribute>
+ <Attribute Name="SNMP.1#SNMPProtocol">All</Attribute>
+ <Attribute Name="SNMP.1#DiscoveryPort">161</Attribute>
+ <Attribute Name="SNMP.1#AlertPort">162</Attribute>
+ <!-- <Attribute Name="NICStatic.1#DNSDomainName">wal-mart.com</Attribute> -->
+ <Attribute Name="SNMPAlert.1#Destination">10.65.72.62</Attribute>
+ <Attribute Name="SNMPAlert.1#State">Enabled</Attribute>
+ <Attribute Name="SNMPAlert.1#SNMPv3Username"/>
+ <Attribute Name="SNMPAlert.2#Destination"/>
+ <Attribute Name="SNMPAlert.2#State">Disabled</Attribute>
+ <Attribute Name="SNMPAlert.2#SNMPv3Username"/>
+ <Attribute Name="SNMPAlert.3#Destination"/>
+ <Attribute Name="SNMPAlert.3#State">Disabled</Attribute>
+ <Attribute Name="SNMPAlert.3#SNMPv3Username"/>
+ <Attribute Name="SNMPAlert.4#Destination"/>
+ <Attribute Name="SNMPAlert.4#State">Disabled</Attribute>
+ <Attribute Name="SNMPAlert.4#SNMPv3Username"/>
+ <Attribute Name="SNMPAlert.5#Destination"/>
+ <Attribute Name="SNMPAlert.5#State">Disabled</Attribute>
+ <Attribute Name="SNMPAlert.5#SNMPv3Username"/>
+ <Attribute Name="SNMPAlert.6#Destination"/>
+ <Attribute Name="SNMPAlert.6#State">Disabled</Attribute>
+ <Attribute Name="SNMPAlert.6#SNMPv3Username"/>
+ <Attribute Name="SNMPAlert.7#Destination"/>
+ <Attribute Name="SNMPAlert.7#State">Disabled</Attribute>
+ <Attribute Name="SNMPAlert.7#SNMPv3Username"/>
+ <Attribute Name="SNMPAlert.8#Destination"/>
+ <Attribute Name="SNMPAlert.8#State">Disabled</Attribute>
+ <Attribute Name="SNMPAlert.8#SNMPv3Username"/>
+ <!-- <Attribute Name="IOIDOpt.1#VirtualAddressPersistencePolicyNonAuxPwrd">WarmReset</Attribute> -->
+ <!-- <Attribute Name="IOIDOpt.1#VirtualAddressPersistencePolicyAuxPwrd">WarmReset, ColdReset</Attribute> -->
+ <!-- <Attribute Name="IOIDOpt.1#InitiatorPersistencePolicy">WarmReset, ColdReset, ACPowerLoss</Attribute> -->
+ <!-- <Attribute Name="IOIDOpt.1#StorageTargetPersistencePolicy">WarmReset, ColdReset, ACPowerLoss</Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#IPAddress"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#Domain"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#ShareName"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#ShareType"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#Username"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#Password">******</Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#Repeat"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#Time"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#DayofMonth"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#WeekofMonth"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#DayOfWeek"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#ImageName"></Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#Passphrase">******</Attribute> -->
+ <!-- <Attribute Name="AutoBackup.1#MaxNumberOfBackupArchives"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#IPAddress"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#Domain"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#ShareName"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#ShareType"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#Username"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#Password">******</Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#ApplyReboot"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#Repeat"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#CatalogName"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#Time"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#DayofMonth"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#WeekofMonth"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#DayOfWeek"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#ProxyHostname"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#ProxyUsername"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#ProxyPassword">******</Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#ProxyPort"></Attribute> -->
+ <!-- <Attribute Name="AutoUpdate.1#ProxyType"></Attribute> -->
+</Component>
+
+</SystemConfiguration>

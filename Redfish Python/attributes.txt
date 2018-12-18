@@ -1,0 +1,868 @@
+Name: vFlashPartition.11.Size, Value: 0
+Name: vFlashPartition.16.FormatType, Value: RAW
+Name: Users.3.SHA256Password, Value: 
+Name: Users.9.PrivacyProtocol, Value: AES
+Name: UserDomain.7.Name, Value: 
+Name: SNMPAlert.2.SNMPv3UserID, Value: 0
+Name: CurrentIPv6.1.Address5, Value: ::
+Name: CurrentIPv6.1.Address4, Value: ::
+Name: CurrentIPv6.1.Address7, Value: ::
+Name: CurrentIPv6.1.Address6, Value: ::
+Name: CurrentIPv6.1.Address1, Value: ::
+Name: CurrentIPv6.1.Address3, Value: ::
+Name: CurrentIPv6.1.Address2, Value: ::
+Name: Users.5.AuthenticationProtocol, Value: SHA
+Name: OS-BMC.1.UsbNicIpAddress, Value: 169.254.1.1
+Name: CurrentIPv6.1.Address9, Value: ::
+Name: CurrentIPv6.1.Address8, Value: ::
+Name: RemoteHosts.1.SMTPPassword, Value: None
+Name: Users.8.PrivacyProtocol, Value: AES
+Name: Users.1.AuthenticationProtocol, Value: SHA
+Name: VirtualConsole.1.AttachState, Value: Auto-attach
+Name: UserDomain.15.Name, Value: 
+Name: IPv4Static.1.Gateway, Value: 10.118.243.65
+Name: Users.6.PrivacyProtocol, Value: AES
+Name: LDAP.1.GroupAttributeIsDN, Value: Enabled
+Name: Users.8.IPMIKey, Value: 
+Name: SNMPAlert.5.SNMPv3Username, Value: 
+Name: OS-BMC.1.PTMode, Value: usb-p2p
+Name: CurrentIPv6.1.DUID, Value: 00:01:00:01:22:a3:99:0c:d0:94:66:7c:e8:7a
+Name: IPBlocking.1.FailWindow, Value: 60
+Name: vFlashPartition.16.EmulationType, Value: CD-DVD
+Name: SNMPTrapIPv4.3.State, Value: Disabled
+Name: vFlashPartition.8.FormatType, Value: RAW
+Name: SNMP.1.SNMPProtocol, Value: All
+Name: UserDomain.40.Name, Value: 
+Name: Users.11.SHA1v3Key, Value: 
+Name: SNMPTrapIPv6.1.DestinationNum, Value: 1
+Name: CurrentNIC.1.SharedNICScanTime, Value: 30
+Name: RFS.1.AttachMode, Value: Auto Attach
+Name: Users.10.ProtocolEnable, Value: Disabled
+Name: vFlashPartition.5.AttachState, Value: Detached
+Name: NIC.1.VLanSetting, Value: Both Enable
+Name: SNMPTrapIPv6.3.State, Value: Disabled
+Name: Users.15.SHA256PasswordSalt, Value: 
+Name: IPMILan.1.EncryptionKey, Value: 0000000000000000000000000000000000000000
+Name: vFlashPartition.6.Size, Value: 0
+Name: ServiceModule.1.ServiceModuleState, Value: Not Running
+Name: Users.9.ProtocolEnable, Value: Disabled
+Name: Info.1.CPLDVersion, Value: 1.0.1
+Name: vFlashPartition.4.FormatType, Value: RAW
+Name: ADGroup.2.Privilege, Value: 0
+Name: UserDomain.20.Name, Value: 
+Name: RedfishEventing.1.DeliveryRetryAttempts, Value: 3
+Name: ADGroup.5.Domain, Value: 
+Name: vFlashSD.1.Licensed, Value: Not Licensed
+Name: SNMPTrapIPv6.3.DestIPv6Addr, Value: ::
+Name: ADGroup.1.Domain, Value: 
+Name: DefaultCredentialMitigationConfigGroup.1.DefaultCredentialMitigation, Value: Disabled
+Name: VirtualMedia.1.ActiveSessions, Value: 0
+Name: vFlashSD.1.Presence, Value: Disabled
+Name: IPMISOL.1.SendThreshold, Value: 255
+Name: IPBlocking.1.RangeEnable, Value: Disabled
+Name: ServiceModule.1.LCLReplication, Value: Disabled
+Name: Users.2.SHA1v3Key, Value: 13757C03DC995E267A354415E800B02DDCD4F2CB
+Name: ActiveDirectory.1.Schema, Value: Extended Schema
+Name: Security.1.CsrOrganizationName, Value: 
+Name: SupportAssist.1.ProSupportPlusRecommendationsReport, Value: Disabled
+Name: Users.10.SHA256Password, Value: 
+Name: UserDomain.28.Name, Value: 
+Name: Time.1.Timezone, Value: GMT
+Name: Users.2.SHA256PasswordSalt, Value: B1826546021CE9CCC90AB2C6DEA657BA
+Name: IOIDOpt.1.IOIDOptEnable, Value: Disabled
+Name: vFlashPartition.7.EmulationType, Value: CD-DVD
+Name: Users.4.ProtocolEnable, Value: Disabled
+Name: SNMP.1.AlertPort, Value: 162
+Name: vFlashPartition.6.VolumeLabel, Value: 0
+Name: Racadm.1.Enable, Value: Enabled
+Name: ActiveDirectory.1.SSOEnable, Value: Disabled
+Name: SNMPAlert.6.SNMPv3Username, Value: 
+Name: vFlashSD.1.Enable, Value: Disabled
+Name: Users.5.IpmiLanPrivilege, Value: No Access
+Name: Users.2.UserName, Value: root
+Name: ActiveDirectory.1.DCLookupByUserDomain, Value: Enabled
+Name: vFlashPartition.13.Size, Value: 0
+Name: IPMISerial.1.FlowControl, Value: RTS/CTS
+Name: vFlashPartition.12.VolumeLabel, Value: 0
+Name: UserDomain.10.Name, Value: 
+Name: Users.9.IpmiLanPrivilege, Value: No Access
+Name: Users.1.MD5v3Key, Value: 
+Name: SNMPAlert.6.State, Value: Disabled
+Name: EmailAlert.3.Address, Value: 
+Name: OS-BMC.1.OsIpAddress, Value: 0.0.0.0
+Name: AutoOSLockGroup.1.AutoOSLockState, Value: Enabled
+Name: Users.15.SHA1v3Key, Value: 
+Name: SysInfo.1.LocalConsoleLockOut, Value: 1
+Name: Users.9.SHA256Password, Value: 
+Name: vFlashPartition.10.AccessType, Value: Read Only
+Name: SNMP.1.EngineID, Value: 0x80001f8880e97d596f98dc105b
+Name: LDAP.1.CertValidationEnable, Value: Enabled
+Name: Users.16.ProtocolEnable, Value: Disabled
+Name: Users.16.IPMIKey, Value: 
+Name: Users.16.IpmiLanPrivilege, Value: No Access
+Name: vFlashPartition.4.IsGroupInstanceValid, Value: Invalid
+Name: ADGroup.5.Privilege, Value: 0
+Name: ServiceModule.1.WatchdogResetTime, Value: 480
+Name: IOIDOpt.1.VirtualAddressPersistencePolicyAuxPwrd, Value: WarmReset, ColdReset
+Name: UserDomain.34.Name, Value: 
+Name: Users.13.SHA1v3Key, Value: 
+Name: UserDomain.30.Name, Value: 
+Name: Users.4.UserName, Value: walmart
+Name: IPMISerial.1.EchoControl, Value: Enabled
+Name: IPMILan.1.Enable, Value: Disabled
+Name: CurrentIPv6.1.Enable, Value: Disabled
+Name: SNMPTrapIPv4.4.DestIPv4Addr, Value: 0.0.0.0
+Name: IPMISerial.1.DeleteControl, Value: Disabled
+Name: Users.7.MD5v3Key, Value: 
+Name: Users.5.Password, Value: None
+Name: Users.3.ProtocolEnable, Value: Disabled
+Name: SmartCard.1.SmartCardLogonEnable, Value: Disabled
+Name: SNMPTrapIPv6.1.State, Value: Disabled
+Name: ADGroup.3.Privilege, Value: 0
+Name: SysLog.1.PowerLogEnable, Value: Disabled
+Name: Users.6.AuthenticationProtocol, Value: SHA
+Name: CurrentIPv4.1.Netmask, Value: 255.255.255.192
+Name: Users.11.IpmiLanPrivilege, Value: No Access
+Name: Users.8.SHA1v3Key, Value: 
+Name: ServiceModule.1.WatchdogState, Value: Disabled
+Name: Users.2.ProtocolEnable, Value: Disabled
+Name: LDAPRoleGroup.4.Privilege, Value: 0
+Name: SNMPTrapIPv4.2.State, Value: Disabled
+Name: CurrentNIC.1.MTU, Value: 1500
+Name: SupportAssist.1.RegistrationID, Value: 
+Name: WebServer.1.MaxNumberOfSessions, Value: 8
+Name: CurrentNIC.1.LinkStatus, Value: Yes
+Name: IPv6.1.Address1, Value: ::
+Name: IPv6.1.Address3, Value: ::
+Name: CurrentNIC.1.Duplex, Value: full
+Name: IPv6.1.Address5, Value: ::
+Name: IPv6.1.Address4, Value: ::
+Name: IPv6.1.Address7, Value: ::
+Name: IPv6.1.Address6, Value: ::
+Name: IPv6.1.Address9, Value: ::
+Name: IPv6.1.Address8, Value: ::
+Name: SupportAssist.1.HostOSProxyPassword, Value: None
+Name: vFlashPartition.3.AttachState, Value: Detached
+Name: CurrentIPv6.1.PrefixLength, Value: 64
+Name: Serial.1.IdleTimeout, Value: 300
+Name: Users.12.UserName, Value: 
+Name: vFlashPartition.2.EmulationType, Value: CD-DVD
+Name: Users.13.SHA256Password, Value: 
+Name: IPv6.1.Address15, Value: ::
+Name: IPv6.1.Address14, Value: ::
+Name: ADGroup.4.Privilege, Value: 0
+Name: IPv6.1.Address11, Value: ::
+Name: IPv6.1.Address10, Value: ::
+Name: IPv6.1.Address13, Value: ::
+Name: IPv6.1.Address12, Value: ::
+Name: NIC.1.DNSDomainFromDHCP, Value: Disabled
+Name: Users.10.MD5v3Key, Value: 
+Name: SNMPTrapIPv4.1.DestIPv4Addr, Value: 0.0.0.0
+Name: Users.4.IpmiLanPrivilege, Value: Administrator
+Name: Users.3.PrivacyProtocol, Value: AES
+Name: vFlashPartition.1.VolumeLabel, Value: 0
+Name: IPv6.1.AddressState, Value: Active
+Name: Users.9.UserName, Value: 
+Name: Telnet.1.MaxSessions, Value: 2
+Name: Users.10.AuthenticationProtocol, Value: SHA
+Name: Users.3.IpmiSerialPrivilege, Value: No Access
+Name: SNMPTrapIPv4.4.DestinationNum, Value: 1
+Name: RFS.1.Image, Value: 
+Name: ServiceModule.1.ServiceModuleEnable, Value: Enabled
+Name: vFlashSD.1.WriteProtect, Value: Disabled
+Name: SSH.1.MaxSessions, Value: 4
+Name: IPv6.1.PrefixLength, Value: 64
+Name: Users.13.Privilege, Value: 0
+Name: CurrentIPv4.1.DHCPEnable, Value: Disabled
+Name: ADGroup.1.Name, Value: 
+Name: NTPConfigGroup.1.NTPEnable, Value: Disabled
+Name: Info.1.Build, Value: 30
+Name: vFlashPartition.4.AttachState, Value: Detached
+Name: vFlashSD.1.AvailableSize, Value: 
+Name: Users.16.AuthenticationProtocol, Value: SHA
+Name: SNMP.1.DiscoveryPort, Value: 161
+Name: Users.14.Password, Value: None
+Name: CurrentIPv6.1.AutoConfig, Value: Enabled
+Name: Update.1.FwUpdateIPAddr, Value: 0.0.0.0
+Name: LDAPRoleGroup.2.Privilege, Value: 0
+Name: Users.13.ProtocolEnable, Value: Disabled
+Name: Info.1.HWRev, Value: 0.01
+Name: EmailAlert.3.Enable, Value: Disabled
+Name: SNMPAlert.2.SNMPv3Username, Value: 
+Name: vFlashPartition.3.IsGroupInstanceValid, Value: Invalid
+Name: Users.16.SolEnable, Value: Disabled
+Name: Users.15.IPMIKey, Value: 
+Name: SNMPAlert.3.State, Value: Disabled
+Name: CurrentIPv6.1.DNSFromDHCP6, Value: Disabled
+Name: vFlashPartition.14.AttachState, Value: Detached
+Name: vFlashPartition.5.Size, Value: 0
+Name: Users.7.Enable, Value: Disabled
+Name: Update.1.FwUpdateTFTPEnable, Value: Enabled
+Name: VirtualConsole.1.LocalDisable, Value: Disabled
+Name: USB.1.ManagementPortMode, Value: iDRAC Direct Only
+Name: SupportAssist.1.DefaultWorkgroupName, Value: 
+Name: vFlashPartition.6.AccessType, Value: Read Only
+Name: SNMPAlert.2.Destination, Value: 10.65.72.62
+Name: NICStatic.1.DNSDomainFromDHCP, Value: Disabled
+Name: NIC.1.VLanPort, Value: Both
+Name: IOIDOpt.1.StorageTargetPersistencePolicy, Value: WarmReset, ColdReset, ACPowerLoss
+Name: CurrentIPv6.1.Gateway, Value: ::
+Name: Users.15.MD5v3Key, Value: 
+Name: vFlashPartition.5.VolumeLabel, Value: 0
+Name: vFlashPartition.6.AttachState, Value: Detached
+Name: vFlashPartition.2.VolumeLabel, Value: 0
+Name: IPMISerial.1.HandshakeControl, Value: Enabled
+Name: vFlashPartition.13.VolumeLabel, Value: 0
+Name: NICStatic.1.DNSDomainName, Value: wal-mart.com
+Name: Users.16.UserName, Value: 
+Name: Users.5.SHA1v3Key, Value: 
+Name: vFlashPartition.16.VolumeLabel, Value: 0
+Name: SNMPTrapIPv4.3.DestIPv4Addr, Value: 0.0.0.0
+Name: Info.1.RollbackVersion, Value: 3.21.21.21
+Name: vFlashPartition.16.IsGroupInstanceValid, Value: Invalid
+Name: Users.15.Privilege, Value: 0
+Name: LDAP.1.SearchFilter, Value: 
+Name: SNMPAlert.8.SNMPv3UserID, Value: 0
+Name: IPMISerial.1.InputNewLineSeq, Value: Enter
+Name: Users.12.IpmiLanPrivilege, Value: No Access
+Name: UserDomain.35.Name, Value: 
+Name: LDAPRoleGroup.1.DN, Value: 
+Name: LDAPRoleGroup.3.Privilege, Value: 0
+Name: SupportAssist.1.FilterAutoCollections, Value: No
+Name: WebServer.1.TLSProtocol, Value: TLS 1.1 and Higher
+Name: Users.3.SHA1v3Key, Value: 
+Name: Users.9.Enable, Value: Disabled
+Name: vFlashPartition.13.FormatType, Value: RAW
+Name: Users.7.AuthenticationProtocol, Value: SHA
+Name: ADGroup.4.Domain, Value: 
+Name: Users.14.ProtocolEnable, Value: Disabled
+Name: vFlashPartition.5.FormatType, Value: RAW
+Name: UserDomain.6.Name, Value: 
+Name: vFlashPartition.15.IsGroupInstanceValid, Value: Invalid
+Name: Users.12.Password, Value: None
+Name: vFlashPartition.9.AccessType, Value: Read Only
+Name: vFlashSD.1.Bitmap, Value: 0x0000000000000000
+Name: SNMPAlert.8.State, Value: Disabled
+Name: vFlashPartition.14.Size, Value: 0
+Name: vFlashPartition.12.EmulationType, Value: CD-DVD
+Name: SNMPAlert.5.Destination, Value: 
+Name: Users.6.SolEnable, Value: Disabled
+Name: Users.3.AuthenticationProtocol, Value: SHA
+Name: ADGroup.4.Name, Value: 
+Name: Users.15.ProtocolEnable, Value: Disabled
+Name: UserDomain.37.Name, Value: 
+Name: UserDomain.5.Name, Value: 
+Name: vFlashPartition.1.IsGroupInstanceValid, Value: Invalid
+Name: Users.13.UserName, Value: 
+Name: ActiveDirectory.1.RacDomain, Value: 
+Name: UserDomain.26.Name, Value: 
+Name: ADGroup.2.Name, Value: 
+Name: Update.1.FwUpdatePath, Value: 
+Name: CurrentNIC.1.NumberOfLOM, Value: 2
+Name: NIC.1.VLanEnable, Value: Disabled
+Name: vFlashPartition.15.EmulationType, Value: CD-DVD
+Name: vFlashPartition.9.AttachState, Value: Detached
+Name: vFlashPartition.10.Size, Value: 0
+Name: vFlashPartition.10.EmulationType, Value: CD-DVD
+Name: VNCServer.1.Port, Value: 5901
+Name: Info.1.Name, Value: iDRAC
+Name: Users.7.Privilege, Value: 0
+Name: Users.8.ProtocolEnable, Value: Disabled
+Name: NIC.1.DNSDomainNameFromDHCP, Value: Disabled
+Name: SmartCard.1.SmartCardCRLEnable, Value: Disabled
+Name: Users.12.SHA1v3Key, Value: 
+Name: Serial.1.Command, Value: 
+Name: LDAP.1.GroupAttribute, Value: 
+Name: IPv4.1.Netmask, Value: 255.255.255.192
+Name: CurrentIPv4.1.DupAddrDetected, Value: 0.0.0.0
+Name: Users.4.Password, Value: None
+Name: LDAP.1.Port, Value: 636
+Name: Users.6.IpmiSerialPrivilege, Value: No Access
+Name: SNMPAlert.5.State, Value: Disabled
+Name: Users.4.Privilege, Value: 511
+Name: Users.11.UserName, Value: 
+Name: Users.6.Privilege, Value: 0
+Name: Users.4.SHA256PasswordSalt, Value: F688236E9AB5D09ABD8C06883E73EC42
+Name: Users.5.Privilege, Value: 0
+Name: vFlashPartition.3.EmulationType, Value: CD-DVD
+Name: CurrentNIC.1.ActiveNIC, Value: Dedicated
+Name: Users.1.SolEnable, Value: Disabled
+Name: UserDomain.33.Name, Value: 
+Name: vFlashPartition.1.Size, Value: 0
+Name: UserDomain.27.Name, Value: 
+Name: SwitchConnectionView.1.Enable, Value: Enabled
+Name: SNMPAlert.7.SNMPv3Username, Value: 
+Name: Serial.1.HistorySize, Value: 8192
+Name: Users.13.PrivacyProtocol, Value: AES
+Name: IOIDOpt.1.VirtualAddressPersistencePolicyNonAuxPwrd, Value: WarmReset
+Name: Users.14.SHA256Password, Value: 
+Name: Users.16.Password, Value: None
+Name: NIC.1.MTU, Value: 1500
+Name: CurrentNIC.1.MgmtIfaceName, Value: bond0
+Name: Users.13.AuthenticationProtocol, Value: SHA
+Name: ServerBoot.1.FirstBootDevice, Value: Normal
+Name: Users.9.AuthenticationProtocol, Value: SHA
+Name: Users.4.AuthenticationProtocol, Value: SHA
+Name: vFlashPartition.16.Size, Value: 0
+Name: Users.14.SolEnable, Value: Disabled
+Name: Users.3.Password, Value: None
+Name: Users.14.MD5v3Key, Value: 
+Name: SysLog.1.PowerLogInterval, Value: 5
+Name: Users.14.SHA256PasswordSalt, Value: 
+Name: SupportAssist.1.HostOSProxyAddress, Value: 
+Name: SupportAssist.1.DefaultUserName, Value: 
+Name: vFlashPartition.12.AttachState, Value: Detached
+Name: UserDomain.22.Name, Value: 
+Name: NIC.1.DNSRegister, Value: Disabled
+Name: IPv6Static.1.Address1, Value: ::
+Name: Users.6.SHA1v3Key, Value: 
+Name: VirtualConsole.1.PluginType, Value: HTML5
+Name: SNMPAlert.1.Destination, Value: 10.57.160.77
+Name: CurrentIPv6.1.IPV6NumOfExtAddress, Value: 0
+Name: Users.5.SHA256PasswordSalt, Value: 
+Name: Users.5.SHA256Password, Value: 
+Name: Users.7.SHA256PasswordSalt, Value: 
+Name: IPv4Static.1.Address, Value: 10.118.243.90
+Name: Users.4.PrivacyProtocol, Value: AES
+Name: IOIDOpt.1.InitiatorPersistencePolicy, Value: WarmReset, ColdReset, ACPowerLoss
+Name: Users.1.ProtocolEnable, Value: Disabled
+Name: vFlashPartition.16.AccessType, Value: Read Only
+Name: VirtualConsole.1.MaxSessions, Value: 6
+Name: vFlashPartition.12.Size, Value: 0
+Name: Users.16.IpmiSerialPrivilege, Value: No Access
+Name: UserDomain.8.Name, Value: 
+Name: IPv6Static.1.DNS2, Value: ::
+Name: LDAP.1.UserAttribute, Value: 
+Name: IPv6Static.1.DNS1, Value: ::
+Name: NIC.1.AutoDetect, Value: Disabled
+Name: IPv6.1.Enable, Value: Disabled
+Name: UserDomain.19.Name, Value: 
+Name: Users.10.SHA1v3Key, Value: 
+Name: Telnet.1.Port, Value: 23
+Name: ASRConfig.1.Enable, Value: Enabled
+Name: UserDomain.24.Name, Value: 
+Name: Users.15.PrivacyProtocol, Value: AES
+Name: Racadm.1.Timeout, Value: 60
+Name: Security.1.CsrCommonName, Value: 
+Name: Users.7.IpmiLanPrivilege, Value: No Access
+Name: SupportAssist.1.HostOSProxyPort, Value: 0
+Name: NIC.1.DNSDomainName, Value: wal-mart.com
+Name: Users.2.Enable, Value: Enabled
+Name: Users.1.UserName, Value: 
+Name: UserDomain.36.Name, Value: 
+Name: Users.5.IpmiSerialPrivilege, Value: No Access
+Name: SupportAssist.1.DefaultPassword, Value: None
+Name: WebServer.1.HttpsRedirection, Value: Enabled
+Name: Users.2.IpmiSerialPrivilege, Value: Administrator
+Name: Users.4.IPMIKey, Value: 41710D15A63B84CFAF08735FCB9D54336951943D1630A731E61FF63F213E675C
+Name: SNMPAlert.1.SNMPv3Username, Value: 
+Name: LDAPRoleGroup.5.DN, Value: 
+Name: SysInfo.1.SystemRev, Value: 0
+Name: ServerBoot.1.BootOnce, Value: Enabled
+Name: Users.4.SHA256Password, Value: 71CD0C77401DCA274A8D0E8EA4DBD0D28346B2F8A7AC743719806564CCDEAD7E
+Name: IPMILan.1.AlertEnable, Value: Enabled
+Name: Users.3.IPMIKey, Value: 
+Name: VNCServer.1.ActiveSessions, Value: 0
+Name: IPv6.1.Gateway, Value: ::
+Name: EmailAlert.1.Address, Value: 
+Name: Info.1.Product, Value: Integrated Dell Remote Access Controller
+Name: Users.6.Password, Value: None
+Name: vFlashPartition.11.VolumeLabel, Value: 0
+Name: vFlashPartition.15.VolumeLabel, Value: 0
+Name: SNMPTrapIPv6.2.State, Value: Disabled
+Name: VirtualConsole.1.AccessPrivilege, Value: Deny Access
+Name: Users.1.Password, Value: None
+Name: vFlashPartition.2.AccessType, Value: Read Only
+Name: Users.2.AuthenticationProtocol, Value: SHA
+Name: Users.9.Privilege, Value: 0
+Name: vFlashPartition.2.AttachState, Value: Detached
+Name: ActiveDirectory.1.DomainController2, Value: 
+Name: vFlashPartition.4.VolumeLabel, Value: 0
+Name: vFlashPartition.5.IsGroupInstanceValid, Value: Invalid
+Name: SNMPTrapIPv6.2.DestinationNum, Value: 1
+Name: EmailAlert.4.Address, Value: 
+Name: LDAP.1.Enable, Value: Disabled
+Name: ADGroup.1.Privilege, Value: 0
+Name: Users.6.ProtocolEnable, Value: Disabled
+Name: Users.13.Enable, Value: Disabled
+Name: UserDomain.14.Name, Value: 
+Name: Users.11.ProtocolEnable, Value: Disabled
+Name: RFS.1.MediaAttachState, Value: Detached
+Name: Users.5.Enable, Value: Disabled
+Name: SNMPTrapIPv4.2.DestIPv4Addr, Value: 0.0.0.0
+Name: Users.3.MD5v3Key, Value: 
+Name: SysLog.1.SysLogEnable, Value: Disabled
+Name: IPMISerial.1.ConnectionMode, Value: Basic
+Name: Users.8.IpmiLanPrivilege, Value: No Access
+Name: EmailAlert.2.CustomMsg, Value: 
+Name: SNMPAlert.7.SNMPv3UserID, Value: 0
+Name: VirtualMedia.1.Attached, Value: AutoAttach
+Name: vFlashPartition.11.AttachState, Value: Detached
+Name: SNMPTrapIPv6.1.DestIPv6Addr, Value: ::
+Name: Users.11.AuthenticationProtocol, Value: SHA
+Name: Security.1.CsrLocalityName, Value: 
+Name: Users.6.UserName, Value: 
+Name: IPv4.1.DNSFromDHCP, Value: Disabled
+Name: Users.10.UserName, Value: 
+Name: vFlashPartition.4.EmulationType, Value: CD-DVD
+Name: SNMPTrapIPv4.1.State, Value: Disabled
+Name: IPv4.1.DNS1, Value: 161.173.7.10
+Name: Info.1.Type, Value: 14G Monolithic
+Name: IPv4.1.DNS2, Value: 161.173.7.20
+Name: Users.2.MD5v3Key, Value: 84CE383A551CAC28506207BDBF8CF8D5
+Name: vFlashPartition.11.IsGroupInstanceValid, Value: Invalid
+Name: ServiceModule.1.WMIInfo, Value: Disabled
+Name: Time.1.TimeZoneOffset, Value: 0
+Name: SNMP.1.AgentCommunity, Value: openmanage
+Name: IPv6.1.AutoConfig, Value: Enabled
+Name: ActiveDirectory.1.RacName, Value: 
+Name: Users.13.Password, Value: None
+Name: CurrentNIC.1.Selection, Value: Dedicated
+Name: Users.10.IPMIKey, Value: 
+Name: vFlashPartition.2.IsGroupInstanceValid, Value: Invalid
+Name: UserDomain.17.Name, Value: 
+Name: vFlashPartition.13.EmulationType, Value: CD-DVD
+Name: Security.1.CsrEmailAddr, Value: 
+Name: Users.1.SHA256PasswordSalt, Value: 
+Name: SNMPAlert.7.State, Value: Disabled
+Name: SNMPAlert.4.State, Value: Disabled
+Name: Users.15.AuthenticationProtocol, Value: SHA
+Name: SNMPAlert.6.Destination, Value: 
+Name: Users.11.PrivacyProtocol, Value: AES
+Name: IPv6URL.1.URL, Value: 
+Name: LDAPRoleGroup.2.DN, Value: 
+Name: SupportAssist.1.EmailOptIn, Value: Yes
+Name: Users.12.AuthenticationProtocol, Value: SHA
+Name: NIC.1.VLanID, Value: 1
+Name: Users.14.UserName, Value: 
+Name: ADGroup.3.Name, Value: 
+Name: CurrentNIC.1.Autoneg, Value: Enabled
+Name: Users.11.Password, Value: None
+Name: vFlashPartition.12.AccessType, Value: Read Only
+Name: IPv6.1.DUID, Value: 00:01:00:01:22:a3:99:0c:d0:94:66:7c:e8:7a
+Name: UserDomain.3.Name, Value: 
+Name: vFlashPartition.11.AccessType, Value: Read Only
+Name: CurrentNIC.1.AutoDetect, Value: Disabled
+Name: ActiveDirectory.1.GCLookupEnable, Value: Disabled
+Name: IPBlocking.1.BlockEnable, Value: Enabled
+Name: Users.8.SHA256PasswordSalt, Value: 
+Name: Users.14.AuthenticationProtocol, Value: SHA
+Name: Users.14.IpmiSerialPrivilege, Value: No Access
+Name: EmailAlert.4.CustomMsg, Value: 
+Name: ActiveDirectory.1.GCRootDomain, Value: 
+Name: NIC.1.VLanPriority, Value: 0
+Name: LDAP.1.Server, Value: 
+Name: LDAPRoleGroup.3.DN, Value: 
+Name: Users.6.MD5v3Key, Value: 
+Name: IPv6Static.1.PrefixLength, Value: 64
+Name: vFlashPartition.13.AttachState, Value: Detached
+Name: Users.8.Enable, Value: Disabled
+Name: Users.16.SHA1v3Key, Value: 
+Name: Users.6.SHA256Password, Value: 
+Name: ServiceModule.1.HostSNMPAlert, Value: Disabled
+Name: IPv4Static.1.DNSFromDHCP, Value: Disabled
+Name: Users.15.SHA256Password, Value: 
+Name: CurrentNIC.1.DedicatedNICScanTime, Value: 5
+Name: Logging.1.SELOEMEventFilterEnable, Value: Disabled
+Name: ServiceModule.1.WatchdogRecoveryAction, Value: None
+Name: Users.13.SolEnable, Value: Disabled
+Name: ServiceModule.1.iDRACHardReset, Value: Enabled
+Name: Users.3.Privilege, Value: 0
+Name: SSH.1.Timeout, Value: 1800
+Name: NIC.1.DedicatedNICScanTime, Value: 5
+Name: SNMPAlert.3.Destination, Value: 
+Name: WebServer.1.LowerEncryptionBitLength, Value: Enabled
+Name: IPv4.1.Address, Value: 10.118.243.90
+Name: IPv6.1.DNSFromDHCP6, Value: Disabled
+Name: RFS.1.Status, Value: Done
+Name: vFlashPartition.9.VolumeLabel, Value: 0
+Name: Users.15.UserName, Value: 
+Name: Users.1.Enable, Value: Disabled
+Name: IPMISerial.1.BaudRate, Value: 57600
+Name: Racadm.1.MaxSessions, Value: 2
+Name: Users.11.MD5v3Key, Value: 
+Name: Users.1.SHA256Password, Value: 
+Name: CurrentIPv4.1.DNSFromDHCP, Value: Disabled
+Name: vFlashPartition.12.IsGroupInstanceValid, Value: Invalid
+Name: Users.2.Password, Value: None
+Name: Security.1.CsrOrganizationUnit, Value: 
+Name: Users.10.Password, Value: None
+Name: IPMISOL.1.BaudRate, Value: 115200
+Name: SupportAssist.1.PreferredLanguage, Value: English
+Name: Users.4.SHA1v3Key, Value: B643FE01C2C1B5116DB317CDBBFB603FB07DB023
+Name: Users.14.IpmiLanPrivilege, Value: No Access
+Name: UserDomain.4.Name, Value: 
+Name: vFlashPartition.1.EmulationType, Value: CD-DVD
+Name: WebServer.1.Timeout, Value: 1800
+Name: VNCServer.1.MaxSessions, Value: 2
+Name: vFlashPartition.7.Size, Value: 0
+Name: Users.5.UserName, Value: 
+Name: VirtualConsole.1.Timeout, Value: 1800
+Name: Users.2.PrivacyProtocol, Value: AES
+Name: Users.14.Enable, Value: Disabled
+Name: Users.7.SolEnable, Value: Disabled
+Name: VirtualConsole.1.LocalVideo, Value: Enabled
+Name: Users.2.IPMIKey, Value: C35EE1F8534F88C780CC22AE43FF5BAB10D9671FBCAF789FD2CB4C23566F2CFA
+Name: CurrentIPv6.1.Address11, Value: ::
+Name: CurrentIPv6.1.Address10, Value: ::
+Name: CurrentIPv6.1.Address13, Value: ::
+Name: CurrentIPv6.1.Address12, Value: ::
+Name: CurrentIPv6.1.Address15, Value: ::
+Name: CurrentIPv6.1.Address14, Value: ::
+Name: ActiveDirectory.1.DCLookupEnable, Value: Disabled
+Name: vFlashPartition.15.AccessType, Value: Read Only
+Name: Users.9.SolEnable, Value: Disabled
+Name: vFlashPartition.8.EmulationType, Value: CD-DVD
+Name: Users.3.Enable, Value: Disabled
+Name: Users.7.SHA256Password, Value: 
+Name: Users.14.SHA1v3Key, Value: 
+Name: EmailAlert.1.Enable, Value: Disabled
+Name: EmailAlert.4.Enable, Value: Disabled
+Name: IPMISOL.1.Enable, Value: Enabled
+Name: Users.7.ProtocolEnable, Value: Disabled
+Name: USB.1.ZipPassword, Value: None
+Name: vFlashPartition.15.Size, Value: 0
+Name: UserDomain.38.Name, Value: 
+Name: vFlashPartition.11.FormatType, Value: RAW
+Name: ADGroup.2.Domain, Value: 
+Name: CurrentIPv4.1.DNS1, Value: 161.173.7.10
+Name: CurrentIPv4.1.DNS2, Value: 161.173.7.20
+Name: IPv4.1.DHCPEnable, Value: Disabled
+Name: Users.9.SHA256PasswordSalt, Value: 
+Name: Users.8.SHA256Password, Value: 
+Name: vFlashPartition.6.EmulationType, Value: CD-DVD
+Name: Users.14.IPMIKey, Value: 
+Name: UserDomain.21.Name, Value: 
+Name: NIC.1.AutoConfig, Value: Disabled
+Name: Users.10.PrivacyProtocol, Value: AES
+Name: SupportAssist.1.NativeOSLogsCollectionSupported, Value: None
+Name: vFlashPartition.8.AccessType, Value: Read Only
+Name: Users.13.IPMIKey, Value: 
+Name: SNMPTrapIPv4.3.DestinationNum, Value: 1
+Name: Info.1.Version, Value: 3.21.21.21
+Name: IPMILan.1.CommunityName, Value: public
+Name: NIC.1.Duplex, Value: Full
+Name: CurrentNIC.1.Enable, Value: Enabled
+Name: Users.8.MD5v3Key, Value: 
+Name: WebServer.1.TitleBarOption, Value: Auto
+Name: ActiveDirectory.1.Enable, Value: Disabled
+Name: Serial.1.NoAuth, Value: Disabled
+Name: IPv6.1.LinkLocalAddress, Value: fe80::d294:66ff:fe7c:e87a
+Name: CurrentNIC.1.Failover, Value: None
+Name: vFlashPartition.13.IsGroupInstanceValid, Value: Invalid
+Name: IPv6.1.IPV6NumOfExtAddress, Value: 0
+Name: GUI.1.SecurityPolicyMessage, Value: By accessing this computer, you confirm that such access complies with your organization's security policy.
+Name: Users.6.IPMIKey, Value: 
+Name: vFlashPartition.5.EmulationType, Value: CD-DVD
+Name: SNMPTrapIPv4.4.State, Value: Disabled
+Name: Users.1.IpmiLanPrivilege, Value: No Access
+Name: IPBlocking.1.FailCount, Value: 3
+Name: VNCServer.1.SSLEncryptionBitLength, Value: Disabled
+Name: Users.11.SHA256PasswordSalt, Value: 
+Name: NTPConfigGroup.1.NTP2, Value: ntp2.wal-mart.com
+Name: LDAP.1.BindDN, Value: 
+Name: SNMPAlert.6.SNMPv3UserID, Value: 0
+Name: Users.2.SHA256Password, Value: 4F0D96FDE741F55C06740D701BFC3CCA2F649540CCA5ACAEFB3A0B822C7F8AAA
+Name: vFlashPartition.6.FormatType, Value: RAW
+Name: PlatformCapability.1.FrontPortUSBConfiguration, Value: Disabled
+Name: SNMPAlert.4.SNMPv3Username, Value: 
+Name: NIC.1.Selection, Value: Dedicated
+Name: Users.15.SolEnable, Value: Disabled
+Name: EmailAlert.3.CustomMsg, Value: 
+Name: Users.15.IpmiLanPrivilege, Value: No Access
+Name: vFlashPartition.16.AttachState, Value: Detached
+Name: EmailAlert.1.CustomMsg, Value: 
+Name: IPMISerial.1.ChanPrivLimit, Value: Administrator
+Name: vFlashPartition.4.Size, Value: 0
+Name: ADGroup.5.Name, Value: 
+Name: vFlashPartition.3.AccessType, Value: Read Only
+Name: SupportAssist.1.SupportAssistEnableState, Value: Disabled
+Name: IPv4.1.Enable, Value: Enabled
+Name: SNMPAlert.8.SNMPv3Username, Value: 
+Name: vFlashPartition.3.Size, Value: 0
+Name: Users.16.MD5v3Key, Value: 
+Name: Users.5.MD5v3Key, Value: 
+Name: IPMISerial.1.NewLineSeq, Value: CR-LF
+Name: Users.12.IpmiSerialPrivilege, Value: No Access
+Name: Users.12.MD5v3Key, Value: 
+Name: VirtualMedia.1.FloppyEmulation, Value: Disabled
+Name: RFS.1.User, Value: 
+Name: Users.12.IPMIKey, Value: 
+Name: UserDomain.13.Name, Value: 
+Name: SupportAssist.1.DefaultShareName, Value: 
+Name: Users.11.SHA256Password, Value: 
+Name: Users.8.UserName, Value: 
+Name: GroupManager.1.GroupName, Value: 
+Name: Users.13.IpmiSerialPrivilege, Value: No Access
+Name: Users.2.IpmiLanPrivilege, Value: Administrator
+Name: vFlashPartition.6.IsGroupInstanceValid, Value: Invalid
+Name: ActiveDirectory.1.DomainController1, Value: 
+Name: Serial.1.BaudRate, Value: 57600
+Name: ActiveDirectory.1.DomainController3, Value: 
+Name: IPv6Static.1.DNSFromDHCP6, Value: Disabled
+Name: Users.8.AuthenticationProtocol, Value: SHA
+Name: vFlashPartition.7.AccessType, Value: Read Only
+Name: Users.15.Enable, Value: Disabled
+Name: vFlashPartition.10.IsGroupInstanceValid, Value: Invalid
+Name: Users.12.SHA256Password, Value: 
+Name: VirtualMedia.1.Enable, Value: Enabled
+Name: WebServer.1.HttpsPort, Value: 443
+Name: SNMPAlert.3.SNMPv3UserID, Value: 0
+Name: ServiceModule.1.OMSAPresence, Value: NA
+Name: Users.1.IpmiSerialPrivilege, Value: No Access
+Name: Users.3.UserName, Value: 
+Name: vFlashPartition.14.VolumeLabel, Value: 0
+Name: vFlashPartition.14.IsGroupInstanceValid, Value: Invalid
+Name: Users.1.SHA1v3Key, Value: 
+Name: Users.10.SHA256PasswordSalt, Value: 
+Name: SNMPTrapIPv4.2.DestinationNum, Value: 1
+Name: vFlashPartition.10.AttachState, Value: Detached
+Name: UserDomain.23.Name, Value: 
+Name: ActiveDirectory.1.CertValidationEnable, Value: Disabled
+Name: Users.9.SHA1v3Key, Value: 
+Name: CurrentNIC.1.MACAddress2, Value: d0:94:66:7c:e8:7b
+Name: SNMPAlert.7.Destination, Value: 
+Name: Users.9.IPMIKey, Value: 
+Name: UserDomain.9.Name, Value: 
+Name: vFlashPartition.1.FormatType, Value: RAW
+Name: LDAPRoleGroup.5.Privilege, Value: 0
+Name: vFlashPartition.8.IsGroupInstanceValid, Value: Invalid
+Name: UserDomain.1.Name, Value: 
+Name: Users.10.IpmiSerialPrivilege, Value: No Access
+Name: vFlashPartition.9.Size, Value: 0
+Name: VirtualConsole.1.Enable, Value: Enabled
+Name: VNCServer.1.Enable, Value: Disabled
+Name: vFlashPartition.14.EmulationType, Value: CD-DVD
+Name: Users.11.IPMIKey, Value: 
+Name: Users.12.ProtocolEnable, Value: Disabled
+Name: vFlashPartition.14.AccessType, Value: Read Only
+Name: CurrentNIC.1.VLanID, Value: 1
+Name: SerialRedirection.1.QuitKey, Value: ^\
+Name: SNMP.1.TrapFormat, Value: SNMPv1
+Name: VirtualConsole.1.Port, Value: 5900
+Name: IPv4Static.1.DNS1, Value: 161.173.7.10
+Name: IPv4Static.1.DNS2, Value: 161.173.7.20
+Name: CurrentNIC.1.VLanEnable, Value: Disabled
+Name: UserDomain.11.Name, Value: 
+Name: Users.7.IPMIKey, Value: 
+Name: Users.11.IpmiSerialPrivilege, Value: No Access
+Name: vFlashPartition.11.EmulationType, Value: CD-DVD
+Name: RemoteHosts.1.SenderEmail, Value: 
+Name: IPBlocking.1.PenaltyTime, Value: 60
+Name: Users.11.Privilege, Value: 0
+Name: Users.5.SolEnable, Value: Disabled
+Name: RedfishEventing.1.DeliveryRetryIntervalInSeconds, Value: 30
+Name: vFlashPartition.7.FormatType, Value: RAW
+Name: Users.8.SolEnable, Value: Disabled
+Name: UserDomain.25.Name, Value: 
+Name: SysLog.1.Server1, Value: 
+Name: SysLog.1.Server3, Value: 
+Name: SysLog.1.Server2, Value: 
+Name: LocalSecurity.1.LocalConfig, Value: Disabled
+Name: vFlashPartition.12.FormatType, Value: RAW
+Name: vFlashPartition.7.VolumeLabel, Value: 0
+Name: vFlashPartition.14.FormatType, Value: RAW
+Name: Users.5.ProtocolEnable, Value: Disabled
+Name: Users.7.Password, Value: None
+Name: ServiceModule.1.OSInfo, Value: Enabled
+Name: vFlashPartition.8.Size, Value: 0
+Name: IPBlocking.1.RangeMask, Value: 255.255.255.0
+Name: CurrentIPv4.1.Gateway, Value: 10.118.243.65
+Name: Users.3.SolEnable, Value: Disabled
+Name: UserDomain.32.Name, Value: 
+Name: CurrentNIC.1.DNSRegister, Value: Disabled
+Name: LDAPRoleGroup.4.DN, Value: 
+Name: CurrentIPv6.1.LinkLocalAddress, Value: fe80::d294:66ff:fe7c:e87a
+Name: LocalSecurity.1.KCSAccess, Value: Enabled
+Name: ActiveDirectory.1.GlobalCatalog1, Value: 
+Name: ActiveDirectory.1.GlobalCatalog2, Value: 
+Name: ActiveDirectory.1.GlobalCatalog3, Value: 
+Name: IPMISOL.1.AccumulateInterval, Value: 10
+Name: Telnet.1.Timeout, Value: 1800
+Name: Users.12.SolEnable, Value: Disabled
+Name: SupportAssist.1.EventBasedAutoCollection, Value: Disabled
+Name: ActiveDirectory.1.AuthTimeout, Value: 120
+Name: vFlashPartition.15.AttachState, Value: Detached
+Name: RFS.1.IgnoreCertWarning, Value: Yes
+Name: CurrentNIC.1.DNSDomainName, Value: wal-mart.com
+Name: WebServer.1.SSLEncryptionBitLength, Value: 128-Bit or higher
+Name: SNMPTrapIPv6.2.DestIPv6Addr, Value: ::
+Name: Info.1.RollbackBuild, Value: 30
+Name: ActiveDirectory.1.DCLookupDomainName, Value: 
+Name: vFlashPartition.3.FormatType, Value: RAW
+Name: NIC.1.Speed, Value: 1000
+Name: Users.1.PrivacyProtocol, Value: AES
+Name: SNMPAlert.3.SNMPv3Username, Value: 
+Name: Users.6.IpmiLanPrivilege, Value: No Access
+Name: Users.9.MD5v3Key, Value: 
+Name: IntegratedDatacenter.1.DiscoveryEnable, Value: Disabled
+Name: vFlashPartition.1.AttachState, Value: Detached
+Name: vFlashSD.1.Size, Value: 
+Name: UserDomain.12.Name, Value: 
+Name: Users.6.SHA256PasswordSalt, Value: 
+Name: Users.7.PrivacyProtocol, Value: AES
+Name: UserDomain.16.Name, Value: 
+Name: GroupManager.1.Status, Value: Enabled
+Name: vFlashPartition.4.AccessType, Value: Read Only
+Name: SysLog.1.Port, Value: 514
+Name: Users.4.MD5v3Key, Value: 23DF1A6438E467D91117F758DE511106
+Name: RemoteHosts.1.SMTPAuthentication, Value: Disabled
+Name: IPMILan.1.PrivLimit, Value: Administrator
+Name: Users.11.Enable, Value: Disabled
+Name: vFlashPartition.9.IsGroupInstanceValid, Value: Invalid
+Name: NIC.1.AutoConfigIPV6, Value: Disabled
+Name: Users.10.Enable, Value: Disabled
+Name: SNMPAlert.4.SNMPv3UserID, Value: 0
+Name: SNMPAlert.5.SNMPv3UserID, Value: 0
+Name: RemoteHosts.1.SMTPUserName, Value: 
+Name: VNCServer.1.Password, Value: None
+Name: WebServer.1.HttpPort, Value: 80
+Name: GroupManager.1.GroupUUID, Value: 
+Name: IPv4Static.1.Netmask, Value: 255.255.255.192
+Name: EmailAlert.2.Enable, Value: Disabled
+Name: Users.14.PrivacyProtocol, Value: AES
+Name: OS-BMC.1.AdminState, Value: Disabled
+Name: vFlashPartition.9.EmulationType, Value: CD-DVD
+Name: vFlashSD.1.Initialized, Value: Not Initialized
+Name: USB.1.PortStatus, Value: Enabled
+Name: vFlashPartition.3.VolumeLabel, Value: 0
+Name: Users.6.Enable, Value: Disabled
+Name: Users.7.IpmiSerialPrivilege, Value: No Access
+Name: Info.1.Description, Value: This system component provides a complete set of remote management functions for Dell PowerEdge Servers
+Name: USB.1.ConfigurationXML, Value: Enabled while server has default credential settings only
+Name: Users.13.MD5v3Key, Value: 
+Name: Users.13.IpmiLanPrivilege, Value: No Access
+Name: UserDomain.18.Name, Value: 
+Name: UserDomain.2.Name, Value: 
+Name: VirtualMedia.1.BootOnce, Value: Disabled
+Name: ServiceModule.1.ServiceModuleVersion, Value: NA
+Name: Serial.1.Enable, Value: Enabled
+Name: Users.13.SHA256PasswordSalt, Value: 
+Name: vFlashPartition.7.IsGroupInstanceValid, Value: Invalid
+Name: CurrentIPv4.1.Enable, Value: Enabled
+Name: vFlashPartition.2.Size, Value: 0
+Name: IPBlocking.1.RangeAddr, Value: 192.168.1.1
+Name: Users.10.Privilege, Value: 0
+Name: VNCServer.1.Timeout, Value: 300
+Name: Users.16.SHA256PasswordSalt, Value: 
+Name: Redfish.1.Enable, Value: Enabled
+Name: LDAPRoleGroup.1.Privilege, Value: 0
+Name: NIC.1.SwitchPortConnection, Value: Gi1/0/16
+Name: NIC.1.SwitchConnection, Value: 00:d6:fe:1d:87:80
+Name: SupportAssist.1.HostOSProxyUserName, Value: 
+Name: RFS.1.Enable, Value: Disabled
+Name: Users.14.Privilege, Value: 0
+Name: SupportAssist.1.HostOSProxyConfigured, Value: No
+Name: Users.4.SolEnable, Value: Disabled
+Name: vFlashPartition.8.VolumeLabel, Value: 0
+Name: Users.8.Privilege, Value: 0
+Name: vFlashPartition.8.AttachState, Value: Detached
+Name: NIC.1.Autoneg, Value: Enabled
+Name: UserDomain.39.Name, Value: 
+Name: vFlashPartition.15.FormatType, Value: RAW
+Name: ServiceModule.1.HostSNMPGet, Value: Disabled
+Name: vFlashPartition.10.VolumeLabel, Value: 0
+Name: SerialRedirection.1.Enable, Value: Enabled
+Name: SNMPTrapIPv6.3.DestinationNum, Value: 1
+Name: Users.4.IpmiSerialPrivilege, Value: Administrator
+Name: LocalSecurity.1.PrebootConfig, Value: Disabled
+Name: Users.8.Password, Value: None
+Name: Users.5.PrivacyProtocol, Value: AES
+Name: RFS.1.WriteProtected, Value: Read Only
+Name: Users.7.SHA1v3Key, Value: 
+Name: EmailAlert.2.Address, Value: 
+Name: Users.12.SHA256PasswordSalt, Value: 
+Name: Users.11.SolEnable, Value: Disabled
+Name: Users.12.Privilege, Value: 0
+Name: Info.1.ServerGen, Value: 14G
+Name: VirtualMedia.1.KeyEnable, Value: Disabled
+Name: Lockdown.1.SystemLockdown, Value: Disabled
+Name: CurrentNIC.1.DNSDomainFromDHCP, Value: Disabled
+Name: Security.1.CsrStateName, Value: 
+Name: IPMISerial.1.LineEdit, Value: Enabled
+Name: OS-BMC.1.PTCapability, Value: Capable
+Name: UserDomain.31.Name, Value: 
+Name: LDAP.1.BindPassword, Value: None
+Name: Time.1.DayLightOffset, Value: 0
+Name: CurrentIPv4.1.Address, Value: 10.118.243.90
+Name: WebServer.1.Enable, Value: Enabled
+Name: IPv6.1.Address2, Value: ::
+Name: Users.4.Enable, Value: Enabled
+Name: VirtualMedia.1.MaxSessions, Value: 1
+Name: IPMISOL.1.MinPrivilege, Value: Administrator
+Name: Users.2.SolEnable, Value: Enabled
+Name: Users.16.SHA256Password, Value: 
+Name: SupportAssist.1.DefaultIPAddress, Value: 
+Name: Users.16.Privilege, Value: 0
+Name: RFS.1.Password, Value: None
+Name: SNMPAlert.4.Destination, Value: 
+Name: CurrentNIC.1.VLanSetting, Value: Both Enable
+Name: Users.7.UserName, Value: 
+Name: UserDomain.29.Name, Value: 
+Name: Users.15.IpmiSerialPrivilege, Value: No Access
+Name: SNMPAlert.8.Destination, Value: 
+Name: Users.1.IPMIKey, Value: 
+Name: Users.16.Enable, Value: Disabled
+Name: CurrentNIC.1.MACAddress, Value: d0:94:66:7c:e8:7a
+Name: Users.5.IPMIKey, Value: 
+Name: NIC.1.Failover, Value: None
+Name: SNMPAlert.1.State, Value: Enabled
+Name: Users.1.Privilege, Value: 0
+Name: vFlashPartition.2.FormatType, Value: RAW
+Name: vFlashPartition.1.AccessType, Value: Read Only
+Name: CurrentNIC.1.VLanPriority, Value: 0
+Name: vFlashPartition.10.FormatType, Value: RAW
+Name: Users.10.SolEnable, Value: Disabled
+Name: CurrentNIC.1.ActiveSharedLOM, Value: None
+Name: NIC.1.SharedNICScanTime, Value: 30
+Name: NTPConfigGroup.1.NTP3, Value: 
+Name: SNMP.1.AgentEnable, Value: Enabled
+Name: NTPConfigGroup.1.NTP1, Value: ntp1.wal-mart.com
+Name: SupportAssist.1.DefaultProtocol, Value: CIFS
+Name: Users.9.Password, Value: None
+Name: VNCServer.1.LowerEncryptionBitLength, Value: Disabled
+Name: SNMPAlert.2.State, Value: Enabled
+Name: SNMPTrapIPv4.1.DestinationNum, Value: 1
+Name: Users.12.Enable, Value: Disabled
+Name: CurrentNIC.1.Speed, Value: 1000
+Name: ADGroup.3.Domain, Value: 
+Name: SSH.1.Port, Value: 22
+Name: RemoteHosts.1.SMTPServerIPAddress, Value: 0.0.0.0
+Name: Users.2.Privilege, Value: 511
+Name: NTPConfigGroup.1.NTPMaxDist, Value: 16
+Name: SSH.1.Enable, Value: Enabled
+Name: Users.9.IpmiSerialPrivilege, Value: No Access
+Name: VirtualConsole.1.EncryptEnable, Value: Enabled
+Name: Security.1.CsrCountryCode, Value: US
+Name: Users.8.IpmiSerialPrivilege, Value: No Access
+Name: IPv6Static.1.Gateway, Value: ::
+Name: vFlashPartition.5.AccessType, Value: Read Only
+Name: CurrentIPv6.1.DNS2, Value: ::
+Name: SNMPAlert.1.SNMPv3UserID, Value: 0
+Name: CurrentIPv6.1.DNS1, Value: ::
+Name: CurrentNIC.1.DNSRacName, Value: OSEC401075-con
+Name: Telnet.1.Enable, Value: Disabled
+Name: NIC.1.MACAddress, Value: d0:94:66:7c:e8:7a
+Name: Users.15.Password, Value: None
+Name: vFlashPartition.7.AttachState, Value: Detached
+Name: WebServer.1.TitleBarOptionCustom, Value: 
+Name: IPv4.1.Gateway, Value: 10.118.243.65
+Name: NIC.1.DNSRacName, Value: OSEC401075-con
+Name: Security.1.CsrKeySize, Value: 2048
+Name: Users.16.PrivacyProtocol, Value: AES
+Name: Security.1.FIPSMode, Value: Disabled
+Name: Users.12.PrivacyProtocol, Value: AES
+Name: vFlashSD.1.Health, Value: OK
+Name: vFlashPartition.9.FormatType, Value: RAW
+Name: Users.3.IpmiLanPrivilege, Value: No Access
+Name: VirtualMedia.1.EncryptEnable, Value: Enabled
+Name: IPv6.1.DNS2, Value: ::
+Name: IPv6.1.DNS1, Value: ::
+Name: NIC.1.Enable, Value: Enabled
+Name: Users.3.SHA256PasswordSalt, Value: 
+Name: vFlashPartition.13.AccessType, Value: Read Only
+Name: Users.10.IpmiLanPrivilege, Value: No Access
+Name: Info.1.IPMIVersion, Value: 2.0
+Name: RemoteHosts.1.SMTPPort, Value: 25
+Name: RedfishEventing.1.IgnoreCertificateErrors, Value: Yes
+Name: LDAP.1.BaseDN, Value: 
